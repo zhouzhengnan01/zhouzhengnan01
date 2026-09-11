@@ -1,16 +1,22 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**zhouzhengnan01/zhouzhengnan01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Hi, I'm zhouzhengnan01</h1>
 
-Here are some ideas to get you started:
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/zhouzhengnan01/zhouzhengnan01/output/github-contribution-grid-snake-dark.svg"
+  />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/zhouzhengnan01/zhouzhengnan01/output/github-contribution-grid-snake.svg"
+  />
+
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/zhouzhengnan01/zhouzhengnan01/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+</div>
